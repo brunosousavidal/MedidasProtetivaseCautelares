@@ -100,4 +100,140 @@
 }
 .icon {
 }
+.c_checkbox {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#171717;
+  text-align:left;
+  line-height:18px;
+}
+.c_checkbox__selected {
+}
+.c_dropdown_input {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_item_w_chk {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_separator {
+}
+.c_focus_control {
+  text-align:left;
+  line-height:normal;
+}
+.c_multiselect_label {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_multiselect_num {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:16px;
+}
+.c_multiselect_num_clear {
+  font-family:'Zapf Dingbats Normal', 'Zapf Dingbats';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:16px;
+}
+.c_spacer {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:center;
+  line-height:18px;
+}
+.c_text_input__disabled {
+  color:#C6C6C6;
+}
+.c_text_input__focused {
+}
+.c_typo__body-short-01 {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__heading-01 {
+  font-family:'IBM Plex Sans Negrito', 'IBM Plex Sans';
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__label-01 {
+  font-family:'IBM Plex Sans Normal', 'IBM Plex Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  letter-spacing:0.32px;
+  color:#393939;
+  text-align:left;
+  line-height:16px;
+}
+.c__disabled-02 {
+  color:#8D8D8D;
+}
+.c__disabled-02_text {
+  color:#C6C6C6;
+}
+.c__hover-ui {
+  color:#161616;
+}
+.c__hover-ui_input {
+  color:#161616;
+}
+.c__icon-01 {
+}
+.c__selected-ui {
+}
+.c__ui-02 {
+}
+.c__ui-02___ui-03_line {
+}
+.paragraph1 {
+  text-align:left;
+}
+.shape {
+}
+.line1 {
+}
 textarea, select, input, button { outline: none; }
